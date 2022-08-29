@@ -1,0 +1,285 @@
+{
+  "project_info": {
+    "project_number": "378915104399",
+    "firebase_url": "https://milkandgroceriesapp-default-rtdb.firebaseio.com",
+    "project_id": "milkandgroceriesapp",
+    "storage_bucket": "milkandgroceriesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378915104399:android:0d82aed2df7e8eff6332fa",
+        "android_client_info": {
+          "package_name": "com.example.a2Natural"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378915104399-6gs2aq38jnrk0bb19rie4kaniisb46gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a2Natural",
+            "certificate_hash": "cb9ac9c48e539dcb60a6a541a0610f054187fd83"
+          }
+        },
+        {
+          "client_id": "378915104399-ke43083b8su0d21gc96m3vja8bh6qo1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a2Natural",
+            "certificate_hash": "7ce503ca928c4c48e37578a725b5dc6246ea065d"
+          }
+        },
+        {
+          "client_id": "378915104399-jsu1sv15q3fd5rf7luevsafavfi7j6aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEeodCAGkSx_KesS-unIDS5WMk_gqMjq4"
+        },
+        {
+          "current_key": "AIzaSyDB_nZlujMQNn8uePO6IVo3mrfUtV6W8-E"
+        },
+        {
+          "current_key": "AIzaSyDKLNKARKn0VPn-kmjUA_ElwLRybhV00hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378915104399-jsu1sv15q3fd5rf7luevsafavfi7j6aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378915104399-gau5khdtcug0dfdaj859tpq46jd061av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.milkGroceriesDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378915104399:android:c4af1a358c983daf6332fa",
+        "android_client_info": {
+          "package_name": "com.anp.milk_groceries_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378915104399-m4552e78uhupqend58k534a2p6rb77ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anp.milk_groceries_delivery_app",
+            "certificate_hash": "a13dd590681c66472ed58a27b93110e76c662a53"
+          }
+        },
+        {
+          "client_id": "378915104399-o47a4abb82jvjsdr3seb4tn1m7epq5md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anp.milk_groceries_delivery_app",
+            "certificate_hash": "7ce503ca928c4c48e37578a725b5dc6246ea065d"
+          }
+        },
+        {
+          "client_id": "378915104399-vr3kjbq9tpig845fdh7hm5i8cuu5jl8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anp.milk_groceries_delivery_app",
+            "certificate_hash": "13a6b2437e247aa218d4761b95d981fd38885883"
+          }
+        },
+        {
+          "client_id": "378915104399-jsu1sv15q3fd5rf7luevsafavfi7j6aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEeodCAGkSx_KesS-unIDS5WMk_gqMjq4"
+        },
+        {
+          "current_key": "AIzaSyDB_nZlujMQNn8uePO6IVo3mrfUtV6W8-E"
+        },
+        {
+          "current_key": "AIzaSyDKLNKARKn0VPn-kmjUA_ElwLRybhV00hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378915104399-jsu1sv15q3fd5rf7luevsafavfi7j6aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378915104399-gau5khdtcug0dfdaj859tpq46jd061av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.milkGroceriesDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378915104399:android:eddb0b1cd9795c0c6332fa",
+        "android_client_info": {
+          "package_name": "com.example.a2_natural"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378915104399-jsu1sv15q3fd5rf7luevsafavfi7j6aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEeodCAGkSx_KesS-unIDS5WMk_gqMjq4"
+        },
+        {
+          "current_key": "AIzaSyDB_nZlujMQNn8uePO6IVo3mrfUtV6W8-E"
+        },
+        {
+          "current_key": "AIzaSyDKLNKARKn0VPn-kmjUA_ElwLRybhV00hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378915104399-jsu1sv15q3fd5rf7luevsafavfi7j6aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378915104399-gau5khdtcug0dfdaj859tpq46jd061av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.milkGroceriesDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378915104399:android:abcb2ba934b2a6e06332fa",
+        "android_client_info": {
+          "package_name": "com.example.a2_natural_delivery_pp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378915104399-cqh8g6pq45p4sdkmqo62u05f0kufh6mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a2_natural_delivery_pp",
+            "certificate_hash": "7ce503ca928c4c48e37578a725b5dc6246ea065d"
+          }
+        },
+        {
+          "client_id": "378915104399-jsltemc9oo2ogdpa9c78v4vf0utjsjvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a2_natural_delivery_pp",
+            "certificate_hash": "a13dd590681c66472ed58a27b93110e76c662a53"
+          }
+        },
+        {
+          "client_id": "378915104399-jsu1sv15q3fd5rf7luevsafavfi7j6aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEeodCAGkSx_KesS-unIDS5WMk_gqMjq4"
+        },
+        {
+          "current_key": "AIzaSyDB_nZlujMQNn8uePO6IVo3mrfUtV6W8-E"
+        },
+        {
+          "current_key": "AIzaSyDKLNKARKn0VPn-kmjUA_ElwLRybhV00hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378915104399-jsu1sv15q3fd5rf7luevsafavfi7j6aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378915104399-gau5khdtcug0dfdaj859tpq46jd061av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.milkGroceriesDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378915104399:android:465ce277bf6a9c306332fa",
+        "android_client_info": {
+          "package_name": "com.example.milk_groceries_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378915104399-tio5oppuduiq97cl379vv4vhno77402k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.milk_groceries_delivery_app",
+            "certificate_hash": "7ce503ca928c4c48e37578a725b5dc6246ea065d"
+          }
+        },
+        {
+          "client_id": "378915104399-jsu1sv15q3fd5rf7luevsafavfi7j6aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEeodCAGkSx_KesS-unIDS5WMk_gqMjq4"
+        },
+        {
+          "current_key": "AIzaSyDB_nZlujMQNn8uePO6IVo3mrfUtV6W8-E"
+        },
+        {
+          "current_key": "AIzaSyDKLNKARKn0VPn-kmjUA_ElwLRybhV00hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378915104399-jsu1sv15q3fd5rf7luevsafavfi7j6aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378915104399-gau5khdtcug0dfdaj859tpq46jd061av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.milkGroceriesDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
