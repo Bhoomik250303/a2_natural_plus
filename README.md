@@ -1,6 +1,11 @@
-# a2_natural
+# A2 Natural PLus Ecommerce Application 
 
-A new Flutter project.
+A2 Natural Plus is a Groceries supplier company. This is an E-commerce mobile application with features like Product catalogue, add to cart, online paymentm and milk 
+subscription. This project is the part of an internship at Fusion Technologies, Mumbai. This project was one of the other two projects A2 Natural Plus Delivery App and the Admin Panel.
+
+Techstack used: 
+  Flutter
+  Firebase (For authentication, Database and hosting of the admin panel)
 
 ## Getting Started
 
